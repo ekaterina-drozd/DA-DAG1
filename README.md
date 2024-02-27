@@ -1,6 +1,6 @@
 # DA-DAG1
 
-Стек: python, библиотеки pandas, requests, date time, airflow 
+Стек: python, библиотеки pandas, requests, datetime, airflow 
  
 **Задачи**:
 * Создать DAG с тасками, выполняющими следующие задачи:
